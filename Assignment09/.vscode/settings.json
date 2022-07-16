@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "matrix.C": "cpp",
+        "particle.C": "cpp",
+        "main.C": "cpp",
+        "parser.C": "cpp",
+        "glCanvas.C": "cpp",
+        "system.C": "cpp",
+        "generator.C": "cpp",
+        "complex": "cpp",
+        "core": "cpp",
+        "integrator.C": "cpp",
+        "chrono": "cpp",
+        "random": "cpp",
+        "limits": "cpp",
+        "ranges": "cpp",
+        "ostream": "cpp"
+    }
+}
